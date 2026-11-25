@@ -1,0 +1,23 @@
+# Keil MDK 编译产物（不提交）
+Objects/
+Listings/
+*.uvguix.*
+*.bak
+*.dep
+*.lnp
+*.map
+*.axf
+*.hex
+*.bin
+*.htm
+*.crf
+*.o
+*.d
+*.lst
+*.iex
+build*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
